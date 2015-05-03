@@ -1,0 +1,11 @@
+E:\SVN\C\Csharp_zajecia_7\Client\bin\Debug\Client.exe.config
+E:\SVN\C\Csharp_zajecia_7\Client\bin\Debug\Client.exe
+E:\SVN\C\Csharp_zajecia_7\Client\bin\Debug\Client.pdb
+E:\SVN\C\Csharp_zajecia_7\Client\obj\Debug\Client.ClientForm.resources
+E:\SVN\C\Csharp_zajecia_7\Client\obj\Debug\Client.Properties.Resources.resources
+E:\SVN\C\Csharp_zajecia_7\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\SVN\C\Csharp_zajecia_7\Client\obj\Debug\Client.exe
+E:\SVN\C\Csharp_zajecia_7\Client\obj\Debug\Client.pdb
+E:\SVN\C\Csharp_zajecia_7\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\SVN\C\Csharp_zajecia_7\Client\obj\Debug\Client.Settings.resources
+E:\SVN\C\Csharp_zajecia_7\Client\obj\Debug\Client.MainLeft.resources

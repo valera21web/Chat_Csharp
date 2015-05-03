@@ -1,0 +1,9 @@
+E:\SVN\C\Csharp_zajecia_7\Server\bin\Debug\Server.exe.config
+E:\SVN\C\Csharp_zajecia_7\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\SVN\C\Csharp_zajecia_7\Server\obj\Debug\Server.Properties.Resources.resources
+E:\SVN\C\Csharp_zajecia_7\Server\obj\Debug\Server.ServerForm.resources
+E:\SVN\C\Csharp_zajecia_7\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\SVN\C\Csharp_zajecia_7\Server\bin\Debug\Server.exe
+E:\SVN\C\Csharp_zajecia_7\Server\bin\Debug\Server.pdb
+E:\SVN\C\Csharp_zajecia_7\Server\obj\Debug\Server.exe
+E:\SVN\C\Csharp_zajecia_7\Server\obj\Debug\Server.pdb
